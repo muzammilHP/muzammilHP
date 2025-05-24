@@ -1,11 +1,11 @@
-## 👋 Hi there! I'm Muzammil  
+## Hi there! I'm Muzammil Nawaz
 ### Front-End & Laravel Developer | Building Interactive Web Interfaces  
 
-Welcome to my profile! I'm a passionate **Front-End & Laravel Developer** with over **3 years of experience** building modern, responsive, and interactive websites and web applications.
+Welcome to my profile! I'm a passionate **Front-End & Laravel Developer** with over **3 years of experience** building modern, responsive and interactive websites and web applications.
 
 ---
 
-### 💼 What I Do
+### What I Do
 I specialize in:
 - 🌐 HTML, CSS, Bootstrap
 - 🧠 JavaScript (Vanilla & DOM manipulation)
@@ -13,11 +13,11 @@ I specialize in:
 - 🗃️ MySQL (Database)
 - 📲 Responsive design & UX-focused interfaces
 
-Whether you need a **business website**, **personal portfolio**, or a **full-stack web application**, I focus on combining **clean UI** with **robust back-end logic** to deliver fast, functional, and tailored solutions.
+Whether you need a **business website**, **personal portfolio** or a **full-stack web application**, I focus on combining **clean UI** with **robust back-end logic** to deliver fast, functional and tailored solutions.
 
 ---
 
-### 🚀 My Goals
+### My Goals
 - Help individuals and businesses **build a strong online presence**
 - Write clean, maintainable code that scales
 - Stay up-to-date with modern web trends and technologies
@@ -25,7 +25,7 @@ Whether you need a **business website**, **personal portfolio**, or a **full-sta
 
 ---
 
-### 📌 My Tech Stack
+### My Tech Stack
 
 | Front-End  | Back-End | Tools |
 |------------|----------|-------|
@@ -35,7 +35,7 @@ Whether you need a **business website**, **personal portfolio**, or a **full-sta
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 Here are some of my key works:
 - 🏥 Hospital Management System (Laravel)
 - 🎓 School Management System
@@ -49,23 +49,24 @@ Here are some of my key works:
 
 ---
 
-### 🎯 Currently Exploring
+### Currently Exploring
 - Meta Front-End & Back-End Dev Programs
+- React Native
 - Advanced Laravel Features
 - Social Media Marketing
 - Deployment & GitHub Pages
 
 ---
 
-### 📬 Let’s Connect!
-- 📧 Email: muzammilhp@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/muzammilhp](https://linkedin.com/in/muzammilhp)  
-- 🎥 YouTube: [MuzziGuide](https://www.youtube.com/@MuzziGuide)  
+### Let’s Connect!
+- 📧 Email: muzammilnawaz124@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/Muzammil Nawaz](www.linkedin.com/in/muzammil-nawaz-b21042230)  
 - 🌐 Portfolio: *Coming Soon*
 
 ---
 
-### ⚡ Fun Fact
-I'm also diving into crypto and forex trading while building a service agency offering web dev, SEO, and branding solutions.
+### ⚡ Fun Fact  
+I’m a curious learner who enjoys exploring different areas of tech from designing clean front-end interfaces to integrating smart back-end solutions.  
+When I'm not coding, I'm sharing tech tips on YouTube, learning digital marketing, or helping friends build their online presence!
 
-Thanks for visiting! Let’s collaborate to bring your ideas to life. 🚀
+Thanks for visiting! Let’s collaborate to bring your ideas to life.
