@@ -45,9 +45,9 @@ Here are some of my key works:
 - 🍔 Food & Cafe Delivery System (Front-end)
 - 🧠 PlagProbe – AI-Powered Plagiarism Detection (FYP)
 
-> 🔗 Check repositories below!
-> Projects:[https://github.com/muzammilHP?tab=repositories]
-> 
+📂 My Projects
+
+> 🔗 Check out all my repositories: [GitHub Repositories](https://github.com/muzammilHP?tab=repositories)
 
 ---
 
